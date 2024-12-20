@@ -5,7 +5,7 @@ body{
 animation: fadeIn 1.5s ease-in-out;
 }
 header {
-    background-color:#997C70;
+    background-color:#d391cb;
     position :absolute;
     top: 0px;
     width: 100%;
@@ -13,7 +13,7 @@ header {
 
 }
 nav{
-    background-color: #997C70; 
+    background-color: #d391cb; 
     top: 0;
     height: 80px;
 }
@@ -53,7 +53,7 @@ ol{
     flex-wrap: wrap;
 }
 nav li{
-    background-color: #997C70;
+    background-color: #d391cb;
 }
 .wsl{
     font-family: 'Brush Script MT', cursive !important;
@@ -63,7 +63,7 @@ main{
     flex-direction: column;
     padding-top: 100px;
     color: #52423e;
-    background-color: #F6E6D0;
+    background-color: #F7E4E0;
 }
 
 .main2{
@@ -103,7 +103,7 @@ form input:hover {
 
 footer {
     display: flex; 
-    background-color:#997C70;
+    background-color:#d391cb;
     position :relative;
     padding: 5px;
     padding-top: 10PX;
