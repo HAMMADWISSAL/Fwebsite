@@ -5,7 +5,7 @@ body{
     animation: fadeIn 1s ease-in-out;
 }
 header {
-    background-color:#997C70;
+    background-color:#d391cb;
     position :absolute;
     top: 0px;
     width: 100%;
@@ -13,7 +13,7 @@ header {
 
 }
 nav{
-    background-color: #997C70; 
+    background-color: #d391cb; 
     top: 0;
     height: 80px;
 }
@@ -35,12 +35,11 @@ nav li :hover{
     color: black; !important;
     border: 1px solid #F7EED3;
 }
-
-nav ol :hover{
-transform: scale(1.01);
-border-radius:  15px;
+.hover{
+    background-color: #F7EED3;
+    color: black; !important;
+    border: 1px solid #F7EED3;
 }
-
 ol{
     display: flex;
     flex-direction:row;
@@ -52,7 +51,7 @@ ol{
     flex-wrap: wrap;
 }
 nav li{
-    background-color: #997C70;
+    background-color: #d391cb;
 }
 .wsl{
     font-family: 'Brush Script MT', cursive !important;
@@ -60,7 +59,7 @@ nav li{
 main{
     display: flex;
     flex-direction: column;
-    background-color: #F6E6D0;
+    background-color: #F7E4E0;
     padding-top: 15px;
     padding-top: 50px;
     color: #52423e;
@@ -126,7 +125,7 @@ p {
 }
 footer {
     display: flex; 
-    background-color:#997C70;
+    background-color:#d391cb;
     position :relative;
     padding: 5px;
     padding-top: 10PX;
