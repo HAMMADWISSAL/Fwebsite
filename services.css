@@ -53,6 +53,10 @@ ol{
 nav li{
     background-color: #d391cb;
 }
+nav ol :hover{
+transform: scale(1.01);
+border-radius:  15px;
+}
 .wsl{
     font-family: 'Brush Script MT', cursive !important;
 }
@@ -94,7 +98,7 @@ p {
 }
 
 .card{
-    background-color: #bfa38f  !important;
+    background-color: #D7B7BC  !important;
     transform: translateY(50px);
     opacity: 0;
     animation: slideIn 1.5s ease-in-out forwards;
