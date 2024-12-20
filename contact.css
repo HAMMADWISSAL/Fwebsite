@@ -30,6 +30,10 @@ nav a{
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
     transition: transform 0.8s ease, background-color 0.8s ease;
 }
+nav ol :hover{
+transform: scale(1.01);
+border-radius:  15px;
+}
 nav li :hover{
     background-color: #F7EED3;
     color: black !important;
