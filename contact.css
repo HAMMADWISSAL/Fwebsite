@@ -5,7 +5,7 @@ body{
     animation: fadeIn 1s ease-in-out;
     }
 header {
-    background-color:#997C70;
+    background-color:#d391cb;
     position :absolute;
     top: 0px;
     width: 100%;
@@ -13,7 +13,7 @@ header {
     
 }
 nav{
-    background-color: #997C70; 
+    background-color: #d391cb; 
     top: 0;
     height: 80px;
 }
@@ -46,7 +46,7 @@ ol{
     flex-wrap: wrap;
 }
 nav li{
-    background-color: #997C70;
+    background-color: #d391cb;
 }
 .wsl{
     font-family: 'Brush Script MT', cursive !important;
@@ -54,7 +54,7 @@ nav li{
 main{
     display: flex;
     flex-direction: column;
-    background-color: #F6E6D0;
+    background-color: #F7E4E0;
     padding-top: 15px;
     padding-top: 50px;
     color: #52423e;
@@ -106,7 +106,7 @@ iframe {
     }
 footer {
     display: flex; 
-    background-color:#997C70;
+    background-color:#d391cb;
     position :relative;
     padding: 5px;
     padding-top: 10PX;
