@@ -35,6 +35,15 @@ nav li :hover{
     color: black !important;
     border: 1px solid #F7EED3;
 }
+nav ol :hover{
+transform: scale(1.01);
+border-radius:  15px;
+}
+.hover{
+    background-color: #F7EED3;
+    color: black !important;
+    border: 1px solid #F7EED3;
+}
 .logo{
      max-height: 75px !important;
 }
@@ -128,7 +137,7 @@ main{
     transition: transform 1s ease-in-out;
 }
 .card{
-    background-color: #bfa38f  !important;
+    background-color:#D7B7BC !important;
     animation: fadeInUp 1s ease-out;
 }
 .card:nth-child(even) {
