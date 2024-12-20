@@ -5,14 +5,14 @@ body{
     animation: fadeIn 1.5s ease-in-out;
 }
 header {
-    background-color:#997C70;
+    background-color:#d391cb;
     position :absolute;
     top: 0px;
     width: 100%;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
 nav{
-    background-color: #997C70; 
+    background-color: #d391cb; 
     top: 0;
     height: 80px;
 }
@@ -49,7 +49,7 @@ ol{
     flex-wrap: wrap;
 }
 nav li{
-    background-color: #997C70;
+    background-color: #d391cb;
 }
 .welcoming{
     font-style: italic !important;
@@ -149,7 +149,7 @@ main{
 }
 footer {
     display: flex; 
-    background-color:#997C70;
+    background-color:#d391cb;
     position :relative;
     padding: 5px;
     padding-top: 10PX;
