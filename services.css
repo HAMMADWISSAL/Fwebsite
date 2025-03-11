@@ -6,7 +6,7 @@ body{
 }
 header {
     background-color:#d391cb;
-    position :absolute;
+    position:absolute;
     top: 0px;
     width: 100%;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
@@ -32,7 +32,7 @@ nav a{
 }
 nav li :hover{
     background-color: #F7EED3;
-    color: black; !important;
+    color: black !important;
     border: 1px solid #F7EED3;
 }
 .hover{
@@ -68,6 +68,13 @@ main{
     padding-top: 50px;
     color: #52423e;
     animation: fadeIn 1s ease-in-out;
+}
+.container{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
 }
 h1, p {
     transform: translateY(30px);
